@@ -1,0 +1,7 @@
+# FILEPATH: /c:/Users/Hoang/Code/CV/face-recognition/.gitignore
+
+# Python virtual environment
+face_recognition/
+*.pth
+__pycache__/
+*/**/__pycache__/
